@@ -4,7 +4,7 @@
 
 **Computer Engineering @ University of Waterloo**
 
-<img src="https://media.giphy.com/media/mlvseq9yzHY5DjWzHmg/giphy.gif" width="180" alt="cute kitty" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="120" alt="cute cat" />
 
 *Always learning, always building* 🐾
 
@@ -29,18 +29,6 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-### 📊 My GitHub stats
-
-<div align="center">
-
-![Anita's GitHub stats](https://github-readme-stats.vercel.app/api?username=anitajiang8&show_icons=true&hide_border=true&title_color=EBA0AC&icon_color=F5C2E7&text_color=6C7086&bg_color=FFFFFF)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anitajiang8&layout=compact&hide_border=true&title_color=EBA0AC&text_color=6C7086&bg_color=FFFFFF)
-
-</div>
 
 ---
 
